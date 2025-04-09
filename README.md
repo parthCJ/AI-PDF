@@ -28,7 +28,7 @@ Ensure you have the following installed:
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/intelligent-pdf-reader.git
+   git clone https://github.com/parthCJ/intelligent-pdf-reader.git
    cd intelligent-pdf-reader
    ```
 2. Install dependencies:
