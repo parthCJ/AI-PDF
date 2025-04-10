@@ -1,4 +1,4 @@
-# Intelligent PDF Reader
+# DocuGenius
 
 ## Overview
 Developed an intelligent PDF Reader that extracts content from PDFs and answers user queries based on the document. The system utilizes advanced natural language processing techniques to ensure accurate and efficient document comprehension and interaction.
